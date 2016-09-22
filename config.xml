@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Employee Directory</name>
+    <name>Phone Gap test</name>
 
     <description>
-        A simple employee directory application
+        A simple test
     </description>
 
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
